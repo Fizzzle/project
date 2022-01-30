@@ -18,4 +18,8 @@ console.log(a); // 11
 console.log(a--); // 11
 console.log(a); // 10
 
-console
+x = 10;
+x += 5; // x = x + 5;
+x -= 5; // x = x - 5;
+x *= 5; // x = x * 5;
+x %= 5; // x = x % 5;
